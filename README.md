@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abbie!
-- 👀 I’m interested in machine learning!!
-- 🌱 I’m currently learning CS
-- 💞️ I’m looking for my pair programmer ;)
+- 👀 I’m interested in cloud computing, web dev, and UI/UX!!
+- 🌱 I’m currently learning AWS!
+- 💞️ I’m looking for more projects to do.
 - 📫 How to reach me: exit code 139
 
 <!---
